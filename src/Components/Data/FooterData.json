@@ -1,0 +1,63 @@
+
+{
+  "logoSrc": "/images/logo/03.svg",
+  "titleUnderlineSrc": "/images/footer/under-title.png",
+  "description": "Empowering Gujranwala’s industries with global connectivity, innovation, and strategic growth",
+  "socialLinks": [
+    {"iconClass": "fa-brands fa-facebook-f", "href": "https://www.facebook.com/gbaofficial", "ariaLabel": "Facebook"},
+    {"iconClass": "fa-brands fa-linkedin-in", "href": "https://www.linkedin.com/company/gbaofficial/", "ariaLabel": "LinkedIn"},
+    {"iconClass": "fa-brands fa-instagram", "href": "https://www.instagram.com/gba.connect/", "ariaLabel": "Instagram"}
+  ],
+  "quickLinks": {
+    "title": "Quick Links",
+    "columns": [
+      [
+        {"text": "About Us", "href": "/gba.html"},
+        {"text": "Gujranwala", "href": "/gujranwala.html"},
+        {"text": "Our Team", "href": "/our-team.html"},
+        {"text": "Partners", "href": "/partners2.html"},
+        {"text": "Flagships", "href": "/Flagship.html"}
+      ],
+      [
+        {"text": "Services", "href": "/service-details.html"},
+        {"text": "Resources", "href": "#"},
+        {"text": "Archives", "href": "/archive.html"},
+        {"text": "Contact Us", "href": "/contact-2.html"}
+      ]
+    ]
+  },
+  "contactInfo": {
+    "title": "Contact Us",
+    "details": [
+      {
+        "iconClass": "fa-solid fa-phone-alt",
+        "title": "Call Us 24/7",
+        "lines": [
+          {"text": "+92 333 8207872", "href": "tel:+923338207872"},
+          {"text": "+92 333 8207872", "href": "tel:+923338207872"}
+        ]
+      },
+      {
+        "iconClass": "fa-solid fa-envelope",
+        "title": "Work with us",
+        "lines": [
+          {"text": "info@gba.org.pk", "href": "mailto:info@gba.org.pk"}
+        ]
+      },
+      {
+        "iconClass": "fa-solid fa-location-dot",
+        "title": "Our Location",
+        "lines": [
+          {"text": "Office G-11, Innovista Rachna, DHA"},
+          {"text": "Gujranwala - Pakistan."}
+        ],
+        "isAddress": true
+      }
+    ]
+  },
+  "copyrightText": "GBA - Copyright",
+  "policyLinks": [
+    {"text": "Privacy Policy", "href": "/privacy-policy.html"},
+    {"text": "Terms & Condition", "href": "/terms-of-condition.html"}
+  ]
+}

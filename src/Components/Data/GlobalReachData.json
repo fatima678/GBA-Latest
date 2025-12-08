@@ -1,0 +1,64 @@
+
+{
+  "pageTitle": "Global Reach",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Global Reach",
+    "description": " Connecting Gujranwala’s Industries to the World.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Global Reach1.jpg",
+    "altText": "Global Reach",
+    "description": "GBA strengthens international understanding and cooperation by facilitating engagement between Gujranwala’s business community and the global diplomatic and trade network. Through regular visits of foreign diplomats, trade representatives, and international delegations, GBA provides a platform for dialogue, partnership building, and exploration of country-specific trade and investment opportunities. The Alliance also organises industry visits and B2B meetings that allow foreign missions and trade bodies to experience Gujranwala’s industrial strength firsthand, fostering trust and collaboration. Complementing these efforts, GBA offers training sessions, seminars, and advisory programs designed to help businesses navigate international markets, understand global trade practices, and develop cross-cultural competencies - empowering Gujranwala’s industries to thrive on the world stage.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Diplomatic Engagement",
+      "description": "Connecting Gujranwala’s industry with global diplomats and trade envoys",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Industry Showcases",
+      "description": "Hosting B2B meetings and industrial visits for foreign missions",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "International Partnerships",
+      "description": "Building cross-border alliances and country-specific trade opportunities",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Global Trade Support",
+      "description": "Providing guidance, training, and insights for entering international markets",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

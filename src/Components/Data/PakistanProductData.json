@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "Pakistan Products House",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Pakistan Products House",
+    "description": "Showcasing Gujranwala’s Industrial Excellence to the World.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Pakistan Products House1.jpg",
+    "altText": "Pakistan Products House",
+    "description": "Hi We have introduced a groundbreaking initiative with the establishment of Pakistan Products House, the country’s first-ever international export display centre. Located in South Sudan, this pioneering facility serves as a permanent platform for showcasing products from Gujranwala’s leading industrial sectors, representing Pakistan’s manufacturing strength and innovation on the global stage. The Pakistan Products House has opened new trade corridors in Africa, enabling exporters to connect directly with buyers, distributors, and investors. By offering continuous exposure for industrial products beyond traditional trade fairs, it facilitates long-term business promotion, B2B engagement, and export growth. Building on this success, additional centres are being developed in Uganda, Nigeria and Morocco, further expanding Gujranwala’s international presence and strengthening Pakistan’s footprint in emerging markets.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Permanent Global Showcase",
+      "description": "A year-round display platform for Gujranwala’s top industrial products",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "New Trade Corridors",
+      "description": "Strengthening Pakistan’s footprint across Africa and high-potential regions",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Direct Export Linkages",
+      "description": "Connecting exporters with buyers, distributors, and investors in emerging markets",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Expanding International Centres",
+      "description": "New Product Houses underway in Uganda, Nigeria, and Morocco",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

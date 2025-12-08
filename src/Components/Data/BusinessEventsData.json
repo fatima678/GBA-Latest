@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "Business Events",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Business Events",
+    "description": "Networking That Inspires Growth.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Business Events1.jpg",
+    "altText": "Business Events",
+    "description": "We host a wide range of business events designed to strengthen relationships, promote knowledge sharing, and inspire collaboration across industries. These gatherings bring together entrepreneurs, industry experts, diplomats, and policymakers to exchange ideas, explore partnerships, and discuss emerging trends that shape the future of business. From workshops, seminars, and conferences to large-scale international forums, GBA’s events cater to businesses at every stage of growth. Each event is carefully curated to provide insights on leadership, innovation, finance, marketing, technology, and trade opportunities, enabling members to stay informed and competitive. A landmark example of GBA’s event leadership was the organisation of the ASEAN Business Forum, the largest international business forum ever held in Gujranwala, which brought together representatives from ASEAN and Southeast Asian countries. The event marked a milestone in cross-border dialogue and economic cooperation, reaffirming Gujranwala’s position as a rising hub of global business engagement.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "High-Impact Networking",
+      "description": "Connecting industry leaders, diplomats, and entrepreneurs under one roof",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Knowledge-Driven Engagements",
+      "description": "Events focused on learning, insight sharing, and strategic dialogue",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Global Business Forums",
+      "description": "Hosting landmark international gatherings that shape regional connectivity",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Opportunities for Growth",
+      "description": "Creating platforms that spark partnerships, innovation, and new ventures",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

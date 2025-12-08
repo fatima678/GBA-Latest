@@ -1,0 +1,66 @@
+
+
+
+{
+  "pageTitle": "Women Empowerment",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Women Empowerment",
+    "description": "Empowering Women to Lead, Innovate, and Succeed.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Women Empowerment1.jpg",
+    "altText": "Women Empowerment",
+    "description": "We are committed to advancing women’s empowerment and gender inclusion across Gujranwala’s industrial and entrepreneurial landscape. By fostering an enabling environment for women entrepreneurs, professionals, and students, the Alliance ensures that women play an active role in shaping the region’s economic future. Through strategic collaborations with women’s chambers of commerce, educational institutions, and development organisations, GBA has created meaningful opportunities for female participation in trade, entrepreneurship, and leadership. Women are actively engaged in GBA’s major initiatives - including international exhibitions, growth windows, and industry–academia programs - gaining exposure to global markets and business networks. Building on this commitment, GBA and its partners are spearheading the establishment of Gujranwala’s first Women Chamber of Commerce & Industry, a landmark initiative that will serve as the cornerstone of women-led business growth, innovation, and international connectivity in the region.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Expanding Women’s Participation",
+      "description": "Creating pathways for women to engage in trade, entrepreneurship, and industry",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Leadership & Skill Development",
+      "description": "Building the capabilities women need to thrive as innovators and decision-makers",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Global Exposure & Opportunities",
+      "description": "Connecting women to international markets, networks, and collaborative platforms",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Building Institutional Support",
+      "description": "Establishing the region’s first Women Chamber to champion women-led growth",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

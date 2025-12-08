@@ -1,0 +1,66 @@
+
+
+
+{
+  "pageTitle": "Trade Shows & Expos",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Trade Shows & Expos",
+    "description": "Creating Global Avenues for Trade, Innovation, and Investment.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Trade Shows & Expos1.jpg",
+    "altText": "Trade Shows & Expos",
+    "description": "We actively support and facilitate the participation of Gujranwala’s industries in leading international trade shows and expos, offering businesses a powerful platform to display their products, connect with global buyers, and strengthen their international presence. These exhibitions bring together manufacturers, importers, distributors, investors, and policymakers under one roof, fostering direct engagement and long-term business partnerships. As part of its global outreach, GBA establishes Made in Gujranwala Enclosures at prominent international exhibitions, presenting the city’s industrial diversity and export potential to global audiences. By assisting members with planning, representation, and coordination, GBA ensures seamless participation in these high-impact events. Through such initiatives, the Alliance enhances brand visibility, expands export opportunities, and fosters cross-border collaboration - reinforcing Gujranwala’s reputation as a key hub of industrial innovation and trade excellence.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Global Exhibition Presence",
+      "description": "Showcasing Gujranwala’s industries at top international expos",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Global B2B Matchmaking",
+      "description": "Connecting businesses with global buyers, investors, and distributors",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Made in Gujranwala Enclosures",
+      "description": "Dedicated pavilions highlighting the city’s export potential",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Export Visibility & Growth",
+      "description": "Boosting brand reach and opening new international markets",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

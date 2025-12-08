@@ -1,0 +1,97 @@
+{
+  "breadcrumb": {
+    "bgTitle": "Latest Post",
+    "title": "Archives",
+    "description": "Explore the moments that shaped GBA’s journey and impact",
+    "shapes": [
+      "images/about/shape/01.png",
+      "images/about/shape/02.png",
+      "images/about/shape/03.png"
+    ]
+  },
+  "posts": [
+    {
+      "thumbnail": "images/blog/14.webp",
+      "date": "15 Jan, 2023",
+      "category": "Business Solution",
+      "title": "Profitable business makes your profit",
+      "description": "Collaboratively pontificate bleeding edge resources with inexpensive methodologies globally initiate multidisciplinary compatible architectures pidiously repurpose leading edge growth strategies with just in time web readiness communicate timely meta services",
+      "link": "blog-details.html",
+      "delay": 0.2
+    },
+    {
+      "thumbnail": "images/blog/15.webp",
+      "date": "15 Jan, 2023",
+      "category": "Business Solution",
+      "title": "Best Solution business makes your profit",
+      "description": "Collaboratively pontificate bleeding edge resources with inexpensive methodologies globally initiate multidisciplinary compatible architectures pidiously repurpose leading edge growth strategies with just in time web readiness communicate timely meta services",
+      "link": "blog-details.html",
+      "delay": 0.3
+    },
+    {
+      "thumbnail": "images/blog/16.webp",
+      "date": "15 Jan, 2023",
+      "category": "Business Solution",
+      "title": "Marketing business makes your profit",
+      "description": "Collaboratively pontificate bleeding edge resources with inexpensive methodologies globally initiate multidisciplinary compatible architectures pidiously repurpose leading edge growth strategies with just in time web readiness communicate timely meta services",
+      "link": "blog-details.html",
+      "delay": 0.4
+    },
+    {
+      "thumbnail": "images/blog/17.webp",
+      "date": "15 Jan, 2023",
+      "category": "Business Solution",
+      "title": "Advantages Of business makes your profit",
+      "description": "Collaboratively pontificate bleeding edge resources with inexpensive methodologies globally initiate multidisciplinary compatible architectures pidiously repurpose leading edge growth strategies with just in time web readiness communicate timely meta services",
+      "link": "blog-details.html",
+      "delay": 0.2
+    }
+  ],
+  "pagination": ["01", "02", "03", "04"],
+  "widgets": {
+    "categories": [
+      "Business Solution",
+      "Solution Model",
+      "More Business",
+      "Finbiz Solution",
+      "Consulting Business"
+    ],
+    "recentPosts": [
+      {
+        "thumbnail": "images/blog/details/recent-post/01.png",
+        "date": "15 Jan, 2023",
+        "title": "We would love to share a similar experience",
+        "link": "#"
+      },
+      {
+        "thumbnail": "images/blog/details/recent-post/02.png",
+        "date": "15 Jan, 2023",
+        "title": "We would love to share a similar experience",
+        "link": "#"
+      },
+      {
+        "thumbnail": "images/blog/details/recent-post/03.png",
+        "date": "15 Jan, 2023",
+        "title": "We would love to share a similar experience",
+        "link": "#"
+      }
+    ],
+    "tags": [
+      "Services",
+      "Business",
+      "Growth",
+      "Finance",
+      "UI/UX Design",
+      "Solution",
+      "Speed",
+      "Strategy",
+      "Technology"
+    ],
+    "contactWidget": {
+      "logo": "images/logo/logo-2.svg",
+      "title": "Need Help? We Are Here To Help You",
+      "buttonText": "Contact Us",
+      "link": "contact.html"
+    }
+  }
+}

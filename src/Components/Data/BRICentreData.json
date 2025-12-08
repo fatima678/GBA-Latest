@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "BRI Centre",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "BRI Centre",
+    "description": "Connecting Gujranwala with the Belt and Road Economies.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/BRI Centre1.jpg",
+    "altText": "BRI Centre",
+    "description": "The BRI Centre is a joint initiative of GBA, the Diplomatic Insight Group, and GIFT University, dedicated to fostering cooperation and opportunity under the Belt and Road Initiative (BRI) - China’s global framework for trade, investment, and connectivity across Asia, Africa, Europe, and beyond. By aligning Gujranwala’s industries and academia with the BRI network, the Centre helps local enterprises access new markets, develop joint ventures, and engage in capacity-building and infrastructure partnerships with BRI economies. For academia, it serves as a platform for cross-border collaboration through research programs, innovation hubs, and student and faculty exchanges that promote knowledge sharing and global engagement. Through this integrated model, the BRI Centre connects business and education to strengthen trade, investment, and technological cooperation, positioning Gujranwala as an active contributor to regional growth and global value chains.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "BRI Market Connectivity",
+      "description": "Opening access to high-potential Belt and Road economies for trade and investment",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "International Partnerships",
+      "description": "Enabling joint ventures, partnerships, and cooperative projects across BRI regions",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Academic & Research Exchange",
+      "description": "Facilitating research programs, innovation hubs, and student–faculty mobility",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Infrastructure & Capacity Building",
+      "description": "Supporting local industries in leveraging BRI-linked development and training opportunities",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

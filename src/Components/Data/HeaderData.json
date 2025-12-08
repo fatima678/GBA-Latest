@@ -1,0 +1,104 @@
+
+
+{
+  "topBar": {
+    "ctaMessage": "Are you ready to grow up your business?",
+    "ctaLink": "/contact",
+    "ctaLinkText": "Contact Us",
+    "email": "info@gba.org.pk",
+    "socialLinks": [
+      {
+        "iconClass": "fab fa-facebook-f",
+        "href": "https://www.facebook.com/gbaofficial",
+        "ariaLabel": "Facebook"
+      },
+      {
+        "iconClass": "fab fa-instagram",
+        "href": "https://www.instagram.com/gba.connect/",
+        "ariaLabel": "Instagram"
+      },
+      {
+        "iconClass": "fab fa-linkedin-in",
+        "href": "https://www.linkedin.com/company/gbaofficial/",
+        "ariaLabel": "LinkedIn",
+        "className": "mr--0"
+      }
+    ]
+  },
+  "logo": {
+    "src": "/images/logo/01.svg",
+    "alt": "finbiz-logo",
+    "width": 100,
+    "height": 30,
+    "homeLink": "/"
+  },
+  "mobileMenuIcon": {
+    "src": "/images/icons/01.svg",
+    "alt": "Menu-icon",
+    "width": 24,
+    "height": 24
+  },
+  "mainNav": [
+    {
+      "title": "About",
+      "href": "#",
+      "type": "mega-menu-single-column",
+      "dropdownStyle": {
+        "width": "30%",
+        "left": "244px"
+      },
+      "dropdownItems": [
+        { "title": "Gujranwala", "href": "/Gujranwala" },
+        { "title": "GBA", "href": "/GBA" },
+        { "title": "Our Team", "href": "/OurTeam" },
+        { "title": "Our Focus", "href": "/OurFocus" }
+      ]
+    },
+    {
+      "title": "Services",
+      "href": "#",
+      "type": "mega-menu-multi-column",
+      "columns": [
+        [
+          { "title": "Global Reach", "href": "/service-details" },
+          { "title": "Business Delegations", "href": "/business-deligation" },
+          { "title": "Pakistan Products House", "href": "/pakistan-products" },
+          { "title": "Trade Shows & Expos", "href": "/trade-shows" }
+        ],
+        [
+          { "title": "Industry Academia Linkages", "href": "/industry-academia" },
+          { "title": "Global Growth Windows", "href": "/global-growth" },
+          { "title": "International Tech Gateways", "href": "/international-tech" },
+          { "title": "Leadership Incubation & Mentorship", "href": "/leadership-incubation" }
+        ],
+        [
+          { "title": "Business Events", "href": "/business-events" },
+          { "title": "Women Empowerment", "href": "/women-empowerment" },
+          { "title": "BRI Centre", "href": "/bri-centre" },
+          { "title": "Capacity Building & Research", "href": "/capacity-building" }
+        ],
+        [
+          { "title": "Global Trade Facilitation Desks", "href": "/global-trade" },
+          { "title": "Community Development", "href": "/community-development" }
+        ]
+      ]
+    },
+    {
+      "title": "Member",
+      "href": "#",
+      "type": "mega-menu-single-column",
+      "dropdownStyle": {
+        "width": "30%",
+        "left": "450px"
+      },
+      "dropdownItems": [
+        { "title": "Our Partners", "href": "/partners2" },
+        { "title": "Our Member", "href": "/our-member" },
+        { "title": "Flagship", "href": "/Flagship" }
+      ]
+    },
+    { "title": "Resources", "href": "#", "type": "link", "strong": true },
+    { "title": "Archives", "href": "/archive", "type": "link", "strong": true },
+    { "title": "Contact", "href": "/contact-2", "type": "link", "strong": true }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "Global Trade Facilitation Desks",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Global Trade Facilitation Desks",
+    "description": "Facilitating Trade, Strengthening Global Partnerships.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Global Trade Facilitation Desks1.jpg",
+    "altText": "Global Trade Facilitation Desks",
+    "description": "To streamline international trade and expand global connectivity, we have established a network of Country-Specific Trade Desks for Gujranwala’s business community. Operating in collaboration with partner organisations across South Asia, ASEAN, Central Asia, Africa, the Middle East, and Europe, these dedicated desks act as strategic gateways for information exchange, B2B matchmaking, and trade coordination. Through these platforms, local industries gain direct access to market insights, export opportunities, and region-specific business support. The Trade Desks help bridge communication gaps, simplify cross-border transactions, and promote lasting business partnerships. By providing businesses with focused, country-level engagement channels, GBA continues to expand Gujranwala’s global reach and foster sustainable international trade growth.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Country-Focused Trade Support",
+      "description": "Providing direct access to region-specific market insights and export opportunities",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "B2B Matchmaking & Linkages",
+      "description": "Connecting local industries with international buyers, partners, and investors",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Streamlined Global Coordination",
+      "description": "Simplifying communication, documentation, and trade facilitation across markets",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Global Market Intelligence",
+      "description": "Delivering up-to-date information on trends, regulations, and emerging opportunities",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

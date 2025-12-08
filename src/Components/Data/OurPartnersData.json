@@ -1,0 +1,49 @@
+{
+  "pageTitle": "Our Partners",
+  "banner": {
+    "bgTitle": "Partners",
+    "title": "Our Partners",
+    "titleFontSize": "48px"
+  },
+  "introSection": {
+    "leftTitle": "Forging Global Partnerships for Shared Progress",
+    "rightText": "Partnership is at the heart of everything we do. The Gujranwala Business Alliance collaborates with a diverse global network of institutions committed to advancing trade, innovation, and industry-led growth. Our partners include international chambers of commerce, trade councils, development agencies, universities, and diplomatic missions that share our vision for inclusive and sustainable economic cooperation. Through these alliances, we have built bridges of collaboration across Asia, Africa, Europe, and the Middle East, connecting Gujranwala’s enterprises with the world. Together, we continue to exchange ideas, explore new markets, and promote a spirit of global partnership that drives business excellence and shared prosperity.",
+    "rightTextFontSize": "15px"
+  },
+  "partnersLogos": [
+    "images/about/Our Partners/Artboard 1.jpg",
+    "images/about/Our Partners/Artboard 2.jpg",
+    "images/about/Our Partners/Artboard 3.jpg",
+    "images/about/Our Partners/Artboard 4.jpg",
+
+    "images/about/Our Partners/Artboard 5.jpg",
+    "images/about/Our Partners/Artboard 6.jpg",
+    "images/about/Our Partners/Artboard 7.jpg",
+    "images/about/Our Partners/Artboard 8.jpg",
+
+    "images/about/Our Partners/Artboard 9.jpg",
+    "images/about/Our Partners/Artboard 10.jpg",
+    "images/about/Our Partners/Artboard 11.jpg",
+    "images/about/Our Partners/Artboard 12.jpg",
+
+    "images/about/Our Partners/Artboard 13.jpg",
+    "images/about/Our Partners/Artboard 14.jpg",
+    "images/about/Our Partners/Artboard 15.jpg",
+    "images/about/Our Partners/Artboard 16.jpg",
+
+    "images/about/Our Partners/Artboard 17.jpg",
+    "images/about/Our Partners/Artboard 18.jpg",
+    "images/about/Our Partners/Artboard 19.jpg",
+    "images/about/Our Partners/Artboard 20.jpg",
+
+    "images/about/Our Partners/Artboard 21.jpg",
+    "images/about/Our Partners/Artboard 22.jpg",
+    "images/about/Our Partners/Artboard 23.jpg",
+    "images/about/Our Partners/Artboard 24.jpg",
+
+    "images/about/Our Partners/Artboard 25.jpg",
+    "images/about/Our Partners/Artboard 26.jpg",
+    "images/about/Our Partners/Artboard 27.jpg",
+    "images/about/Our Partners/Artboard 28.jpg"
+  ]
+}

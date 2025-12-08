@@ -1,0 +1,63 @@
+{
+  "pageTitle": "Global Growth Windows",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Global Growth Windows",
+    "description": "Where Trade, Knowledge, and Innovation Converge.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Global Growth Windows1.jpg",
+    "altText": "Global Growth Windows",
+    "description": "We have introduced an innovative initiative known as Global Growth Windows — strategic gateways that strengthen Gujranwala’s connectivity with key regions across Asia, Europe, Africa, and the Middle East. These windows are designed to promote trade, knowledge exchange, and long-term collaboration between Gujranwala and partner economies around the world. For businesses, Global Growth Windows act as facilitation hubs that provide access to market intelligence, B2B matchmaking, trade opportunities, and joint venture development. They enable enterprises to expand exports, attract investment, and establish sustainable cross-border partnerships. On the academic front, they connect universities and research institutions for faculty and student exchanges, joint research programs, innovation collaborations, and language learning initiatives. By integrating commerce, education, and innovation, GBA’s Global Growth Windows are transforming Gujranwala into a globally connected ecosystem for trade and knowledge-driven development.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Regional Connectivity Hubs",
+      "description": "Linking Gujranwala with key markets across Asia, Europe, Africa, and the Middle East",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Trade & Investment Facilitation",
+      "description": "Providing market intelligence, B2B linkages, and pathways for export expansion",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Academic & Research Exchange",
+      "description": "Enabling international collaboration through joint research, mobility, and innovation programs",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Cross-Border Innovation Platforms",
+      "description": "Integrating commerce, education, and technology to build sustainable global partnerships",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

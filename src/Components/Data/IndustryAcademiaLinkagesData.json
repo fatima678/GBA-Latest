@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "Industry Academia Linkages",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Industry Academia \n Linkages",
+    "description": "Bridging Knowledge and Industry for a Smarter Future.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Industry Academia Linkages1.jpg",
+    "altText": "Industry Academia Linkages",
+    "description": "GBA has been at the forefront of fostering collaboration between academia and industry to bridge the gap between education, innovation, and practical application. By partnering with leading universities and research institutions, the Alliance has created a sustainable framework that aligns academic learning with industrial needs and technological advancements. Through internships, industrial visits, expert talks, and joint R&D initiatives, GBA ensures that students gain real-world exposure while industries benefit from innovative ideas and research-driven solutions. These collaborations also promote entrepreneurship, skill development, and innovation-driven growth across the region. With dedicated initiatives such as entrepreneurship boards, incubation partnerships, and skill enhancement programs, GBA continues to prepare the next generation of professionals and entrepreneurs to lead Gujranwala’s industries into a globally competitive future.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Strategic University Partnerships",
+      "description": "Connecting academia with industry to align education with real-world needs",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Joint Research & Innovation",
+      "description": "Driving collaborative R&D that delivers practical solutions for industrial growth",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Internships & Industrial Exposure",
+      "description": "Providing students hands-on learning through visits, placements, and industry immersion",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Entrepreneurship & Skill Development",
+      "description": "Cultivating future leaders through incubation, training, and innovation-focused programs",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

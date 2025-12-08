@@ -1,0 +1,63 @@
+{
+  "pageTitle": "Business Delegations",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Business Delegations",
+    "description": "Expanding Horizons Through Global Engagement.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Global Reach1.jpg",
+    "altText": "Business Delegations",
+    "description": "We organise international business delegations that provide member companies with direct access to new markets, partnerships, and trade opportunities. These delegations enable entrepreneurs to experience global markets firsthand - understanding consumer behaviour, regulatory frameworks, and business environments that shape international commerce. By engaging with foreign chambers of commerce, government institutions, and industry leaders, participants gain valuable market intelligence and establish credible business linkages that drive export growth and investment collaboration. GBA’s business delegations also feature trade shows, B2B meetings, and networking events, creating powerful platforms for promoting Gujranwala’s industrial capabilities and exploring joint ventures across borders. Over the past years, GBA has successfully led business delegations across Asia, Africa, the Middle East, and Europe - resulting in multi-million-dollar collaborations, trade agreements, and long-term partnerships that continue to expand Gujranwala’s global economic footprint.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "images/service/05.svg",
+      "title": "Market Exploration",
+      "description": "Firsthand exposure to global markets, trends, and opportunities",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "images/service/06.svg",
+      "title": "Business Promotion",
+      "description": "High-impact meetings that unlock export deals and joint ventures",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "images/service/07.svg",
+      "title": "Cross-Border Partnerships",
+      "description": "Building trusted connections with global chambers and trade bodies",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "images/service/08.svg",
+      "title": "Multi-Regional Outreach",
+      "description": "Delegations across Asia, Africa, the Middle East, and Europe",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

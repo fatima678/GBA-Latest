@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "Community Development",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Community Development",
+    "description": "Creating Social Impact Through Compassion and Collaboration.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Community Development1.jpg",
+    "altText": "Community Development",
+    "description": "Beyond commerce, the Alliance upholds its responsibility to community welfare through impactful social initiatives. Among its notable achievements is a collaborative healthcare initiative that facilitated life-changing corneal transplant surgeries in Gujranwala, made possible through cooperation with global partners and local medical institutions. Over the past two years, this humanitarian effort has successfully restored vision and transformed the lives of dozens of individuals and their families. Beyond healthcare, GBA continues to expand its community outreach into fields such as education, skill development, environmental sustainability, and youth empowerment, ensuring inclusive and lasting social progress. By extending its global linkages beyond business and trade, GBA promotes a model of growth where international collaboration serves both economic and humanitarian goals. This ongoing commitment reflects the Alliance’s belief that true progress is measured not only by industrial achievement but also by its positive impact on people, communities, and society at large.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Healthcare Support",
+      "description": "Delivering medical assistance that transforms lives",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Education & Skill Empowerment",
+      "description": "Expanding learning and training opportunities",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Youth & Women Inclusion",
+      "description": "Promoting equal access and economic participation",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Sustainable Community Outreach",
+      "description": "Advancing long-term social and environmental welfare",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

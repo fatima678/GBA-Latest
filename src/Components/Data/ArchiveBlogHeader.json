@@ -1,0 +1,113 @@
+{
+  "topBar": {
+    "left": {
+      "email": "support@invena.com",
+      "workingTime": "8.00am - 5.00pm"
+    },
+    "right": {
+      "links": [
+        { "label": "Company news", "href": "blog-list.html" },
+        { "label": "Faq", "href": "faq.html" },
+        { "label": "Contact", "href": "contact.html" }
+      ],
+      "social": [
+        { "icon": "fab fa-facebook-f", "href": "#" },
+        { "icon": "fab fa-twitter", "href": "#" },
+        { "icon": "fab fa-instagram", "href": "#" },
+        { "icon": "fab fa-linkedin-in", "href": "#" }
+      ]
+    }
+  },
+  "logo": {
+    "src": "assets/images/logo/01.svg",
+    "href": "onepage-sixteen.html",
+    "alt": "finbiz-logo"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "onepage-sixteen.html",
+      "megaMenu": true,
+      "columns": [
+        {
+          "title": "Multi Page",
+          "items": [
+            { "label": "Business One", "href": "index.html" },
+            { "label": "Business Two", "href": "index-two.html" },
+            { "label": "Business Three", "href": "index-three.html" }
+          ]
+        },
+        {
+          "title": "Multi Page",
+          "items": [
+            { "label": "Business agency", "href": "index-seven.html" },
+            { "label": "Business Management", "href": "index-eight.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "About",
+      "submenu": [
+        { "label": "Gujranwala", "href": "gujranwala.html" },
+        { "label": "GBA", "href": "gba.html" },
+        { "label": "Chairman Message", "href": "chairman-message.html" }
+      ]
+    },
+    {
+      "label": "Pages",
+      "megaMenu": true,
+      "columns": [
+        {
+          "items": [
+            { "label": "About Company", "href": "about.html" },
+            { "label": "Service", "href": "service.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Service",
+      "megaMenu": true,
+      "columns": [
+        {
+          "items": [
+            {
+              "label": "Business Solution",
+              "href": "service-details.html",
+              "icon": "assets/images/service/04.svg",
+              "desc": "Once planning is complete, site preparation begins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Project",
+      "megaMenu": true,
+      "columns": [
+        {
+          "title": "Types",
+          "items": [
+            { "label": "Project", "href": "project.html" },
+            { "label": "Project Slider", "href": "project-slider.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Blog",
+      "submenu": [
+        { "label": "Blog Grid", "href": "blog-grid.html" },
+        { "label": "Blog List", "href": "blog-list.html" }
+      ]
+    },
+    {
+      "label": "Contact",
+      "submenu": [
+        { "label": "Contact", "href": "contact.html" },
+        { "label": "Contact 2", "href": "contact-2.html" }
+      ]
+    }
+  ]
+}

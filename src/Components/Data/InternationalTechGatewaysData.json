@@ -1,0 +1,66 @@
+
+
+
+{
+  "pageTitle": "International Tech Gateways",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "International Tech Gateways",
+    "description": "Empowering Gujranwala’s Transition into a Global Tech Hub.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/International Tech Gateways1.jpg",
+    "altText": "International Tech Gateways",
+    "description": "GBA is leading the digital transformation of Gujranwala by fostering innovation, technological collaboration, and global connectivity within the region’s IT ecosystem. Through strategic partnerships with leading technology forums, innovation platforms, and academic institutions, the Alliance is building a strong foundation for the city’s digital economy and enhancing the global competitiveness of its technology sector. Through the establishment of International Tech Gateways, GBA has created a transformative network that connects local IT companies with opportunities for international collaboration, innovation, and market expansion. These gateways support startups and established firms in accessing cross-border ventures, capacity-building initiatives, and technology exchange projects. With active linkages across Central Asia, the Middle East, Europe, and East Asia, GBA continues to facilitate joint ventures, training programs, and digital partnerships that drive skill development, innovation, and commercial growth - positioning Gujranwala as a rising player in Pakistan’s IT and technology export landscape.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Global Tech Connectivity",
+      "description": "Linking local IT companies with international innovation ecosystems",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "International Collaborations",
+      "description": "Enabling joint ventures, technology exchange, and global project partnerships",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Digital Skill Advancement",
+      "description": "Providing training and capacity-building for a future-ready tech workforce",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Innovation & Market Expansion",
+      "description": "Opening pathways for startups and firms to enter new digital markets worldwide",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}

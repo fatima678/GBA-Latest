@@ -1,0 +1,65 @@
+
+
+{
+  "pageTitle": "Capacity Building & Research",
+  "banner": {
+    "bgTitle": "Business",
+    "title": "Capacity Building & Research",
+    "description": "Advancing Knowledge, Innovation, and Industrial Excellence.",
+    "titleFontSize": "48px",
+    "descriptionFontSize": "20px"
+  },
+  "mainContent": {
+    "imageSrc": "/images/about/Global Reach1.jpg",
+    "altText": "Capacity Building & Research",
+    "description": "We place strong emphasis on research and capacity building as core drivers of industrial innovation and competitiveness. By combining technical expertise with practical business insights, the Alliance supports initiatives that enhance productivity, efficiency, and long-term growth across Gujranwala’s industrial sectors. Through collaborations with research institutions, industry experts, and development partners, GBA facilitates applied R&D projects, knowledge transfer, and innovation-focused initiatives. These programs enable businesses to adopt new technologies, improve processes, and strengthen their global competitiveness. GBA also conducts specialised training and professional development programs designed to equip entrepreneurs, managers, and professionals with the skills required to thrive in evolving markets. From technical workshops to leadership sessions, these initiatives help businesses stay agile, informed, and innovation-ready. By integrating research, learning, and skill enhancement, GBA continues to build a strong foundation for sustainable industrial advancement.",
+    "descriptionFontSize": "15px"
+  },
+  "shortServices": [
+    {
+      "iconSrc": "/images/service/05.svg",
+      "title": "Applied R&D Collaboration",
+      "description": "Driving innovation through industry-aligned research and development projects",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "300px" }
+    },
+    {
+      "iconSrc": "/images/service/06.svg",
+      "title": "Skill & Leadership Development",
+      "description": "Building competencies through specialised training and professional development",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/07.svg",
+      "title": "Technology & Process Upgradation",
+      "description": "Supporting industries in adopting modern technologies and improving efficiency",
+      "iconStyle": { "marginLeft": "-10px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    },
+    {
+      "iconSrc": "/images/service/08.svg",
+      "title": "Knowledge Transfer & Advisory Support",
+      "description": "Facilitating expert-led guidance to strengthen competitiveness and strategic growth",
+      "iconStyle": { "marginLeft": "40px" },
+      "descWidthStyle": { "fontSize": "15px", "width": "250px" }
+    }
+  ],
+  "sidebarCategories": [
+    { "href": "service-details.html", "text": "Global Reach" },
+    { "href": "business-deligation.html", "text": "Business Delegations" },
+    { "href": "pakistan-products.html", "text": "Pakistan Products House" },
+    { "href": "trade-shows.html", "text": "Trade Shows & Expos" },
+    { "href": "industry-academia.html", "text": "Industry Academia Linkages" },
+    { "href": "global-growth.html", "text": "Global Growth Windows" },
+    { "href": "international-tech.html", "text": "International Tech Gateways" },
+    { "href": "leadership-incubation.html", "text": "Leadership Incubation & Mentorship" },
+    { "href": "business-events.html", "text": "Business Events" },
+    { "href": "women-empowerment.html", "text": "Women Empowerment" },
+    { "href": "bRI-centre.html", "text": "BRI Centre" },
+    { "href": "capacity-building.html", "text": "Capacity Building & Research" },
+    { "href": "global-trade.html", "text": "Global Trade Facilitation Desks" },
+    { "href": "community-development.html", "text": "Community Development" }
+  ],
+  "sidebarTitle": "Categories"
+}
